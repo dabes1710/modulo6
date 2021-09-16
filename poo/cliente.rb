@@ -73,3 +73,4 @@ cliente2.frecuencia_de_compra = "semanal"
 
 cliente2.saludar
 cliente2.imprimir_datos
+c
